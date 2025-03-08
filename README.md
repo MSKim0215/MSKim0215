@@ -12,10 +12,9 @@
   ---
 </div>
 
-<a href=""><img align="right" src=""/></a>
+<a href=""><img align="right" src="https://raw.githubusercontent.com/MSKim0215/Programmers_Badge_Generator/main/result/result.svg"/></a>
 -  **[(주)미러로이드](https://www.mirrorroid.co.kr/)** - 클라이언트 개발 <sub>(2024.06 ~ 2025.02)</sub>
-
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h2> 📝 Personal Projects</h2>
 
