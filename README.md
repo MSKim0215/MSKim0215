@@ -1,41 +1,33 @@
+<!--
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&reversal=false&fontColor=363636&textBg=false&fontSize=40&animation=fadeIn&stroke=f7f5f5&strokeWidth=1"/>
 </div>
+-->
 
 <div align="center">
-  <div>
-		<h2> 📝 Personal Projects</h2>
-		<p>
-		<a href="" target="_blank">[포트폴리오] 디노버거</a> 
-    <br />
-		<a href="" target="_blank">[출시] 마레타운2-붕어빵타이쿤</a>
-		<br />
-		<a href="" target="_blank">[출시] 마레타운-붕어빵타이쿤</a>
-		</p>
-	</div>
-  
-  <div>
-    <h2> 📚 Tech Stack</h2>
-    <div>
-        <img src="https://img.shields.io/badge/Unity-000000?logo=Unity">
-        <img src="https://img.shields.io/badge/C%23-9179E4?logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B">
-    </div>
-    <div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-    </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSKim0215&layout=compact&hide=HLSL,Mathematica,ShaderLab"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"> </a>
-  </div>
-  <hr />
-  
-  <div>
-  	<h5> 📫 How to contact me 📫 </h5>
-  	<p> 📧 email ~ rlaalstjqu05@gmail.com </p>
-  	<p> my resume ~ <a href="https://almond-forsythia-225.notion.site/1ad22d9dc874801d960fddcdbf633bf6?pvs=73" target="_blank"><img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=000"/></a> </p>
-    <a href="https://github.com/MSKim0215">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMSKim0215&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+hit&edge_flat=false)"/>
-    </a> 
-    <a href="https://solved.ac/whkakrkr"></a>
-  </div>
+	
+  ### 김민섭
+  <a href="https://almond-forsythia-225.notion.site/1ad22d9dc874801d960fddcdbf633bf6?pvs=73"><img src="https://img.shields.io/badge/Resume-fff?style=flat&logo=Notion&logoColor=000"/></a> 
+  <a href=""><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a>
+  ---
 </div>
+
+<a href=""><img align="right" src=""/></a>
+-  **[(주)미러로이드](https://www.mirrorroid.co.kr/)** - 클라이언트 개발 <sub>(2024.06 ~ 2025.02)</sub>
+
+<br/>
+
+<h2> 📝 Personal Projects</h2>
+
+|출시|프로젝트|소개|바로가기|
+|:-:|:-|:-|:-:|
+|<sub>2025.03</sub> | **🍔 Dino Burger** | 디노 버거 (요리 & 시뮬레이션) | [Github](https://github.com/MSKim0215/Project_Food_Store) &nbsp; [Youtube]() |
+|<sub>2023.02</sub> | **🐟🍞 BunFish Tycoon2** | 붕어빵 타이쿤2 (로그라이크 & 시뮬레이션) | [Youtube](https://www.youtube.com/watch?v=0v7RYnJW_yc&feature=youtu.be) &nbsp; [Google Play Store](https://play.google.com/store/apps/details?id=com.fatcat.burnfishtycoon2) |
+|<sub>2022.04</sub> | **🏐 MergeBall** | 실타레 뭉치기 (feat.수박 게임) (퍼즐) | [Youtube](https://www.youtube.com/watch?v=rH7PKcFyq4M) &nbsp; [Google Play Store](https://play.google.com/store/apps/details?id=com.gooddteamsstudio.maretownmergeball) |
+|<sub>2021.05</sub> | **🐟🍞 BunFish Tycoon** | 붕어빵 타이쿤 (가게 운영 & 시뮬레이션) | [Google Play Store](https://play.google.com/store/apps/details?id=com.GooddteamsStudio.MareTownBurnFishTycoon) 
+
+<!--
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&reversal=false&fontColor=363636&textBg=false&fontSize=60&animation=fadeIn&stroke=f7f5f5&strokeWidth=1&section=footer"/>
+</div>
+-->
