@@ -8,7 +8,7 @@
 	
   ### 김민섭
   <a href="https://almond-forsythia-225.notion.site/1ad22d9dc874801d960fddcdbf633bf6?pvs=73"><img src="https://img.shields.io/badge/Resume-fff?style=flat&logo=Notion&logoColor=000"/></a> 
-  <a href=""><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a>
+  <!-- <a href=""><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> -->
   ---
 </div>
 
