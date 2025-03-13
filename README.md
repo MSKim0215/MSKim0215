@@ -21,9 +21,9 @@
 |출시|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
 |<sub>2025.03</sub> | **🍔 Dino Burger** | 디노 버거 (요리 & 시뮬레이션) | [Github](https://github.com/MSKim0215/Project_Food_Store) &nbsp; [Youtube]() |
-|<sub>2023.02</sub> | **🐟🍞 BunFish Tycoon2** | 붕어빵 타이쿤2 (로그라이크 & 시뮬레이션) | [Youtube](https://www.youtube.com/watch?v=0v7RYnJW_yc&feature=youtu.be) &nbsp; [Google Play Store](https://play.google.com/store/apps/details?id=com.fatcat.burnfishtycoon2) |
+|<sub>2023.02</sub> | **🐟🍞 BunFish Tycoon2** | 붕어빵 장사하기2 (로그라이크 & 시뮬레이션) | [Youtube](https://www.youtube.com/watch?v=0v7RYnJW_yc&feature=youtu.be) &nbsp; [Google Play Store](https://play.google.com/store/apps/details?id=com.fatcat.burnfishtycoon2) |
 |<sub>2022.04</sub> | **🏐 MergeBall** | 실타레 뭉치기 (feat.수박 게임) (퍼즐) | [Youtube](https://www.youtube.com/watch?v=rH7PKcFyq4M) &nbsp; [Google Play Store](https://play.google.com/store/apps/details?id=com.gooddteamsstudio.maretownmergeball) |
-|<sub>2021.05</sub> | **🐟🍞 BunFish Tycoon** | 붕어빵 타이쿤 (가게 운영 & 시뮬레이션) | [Google Play Store](https://play.google.com/store/apps/details?id=com.GooddteamsStudio.MareTownBurnFishTycoon) 
+|<sub>2021.05</sub> | **🐟🍞 BunFish Tycoon** | 붕어빵 장사하기 (가게 운영 & 시뮬레이션) | [Google Play Store](https://play.google.com/store/apps/details?id=com.GooddteamsStudio.MareTownBurnFishTycoon) 
 
 <!--
 <div align="center">
