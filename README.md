@@ -20,12 +20,14 @@
 
 <br/><br/>
 
+<!--
 <h2> 📝 Coding Test</h2>
 
 <a href=""><img src="https://raw.githubusercontent.com/MSKim0215/Programmers_Badge_Generator/main/result/result.svg" width="425"/></a>
 <a herf="https://solved.ac/rlaalstjqu05/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalstjqu05" /></a>
 
 <br/><br/>
+-->
 
 <h2> 📝 Personal Projects</h2>
 
